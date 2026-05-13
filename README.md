@@ -1079,3 +1079,5 @@ when(
 );
 ```
 - Используйте для одноразовых инициализаций.
+#   C o d e r _ D e c o d e r _ r e a c t - a d d - B i n a r y - p h a s e c h a r t - f r e q u n c y c h a r t - a m p l i t u d a c h a r t -  
+ 
